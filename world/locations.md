@@ -16,7 +16,7 @@
 **描述**：靠近起始點的寧靜小鎮，石板路兩側是低矮的木造房屋。這裡是新玩家最先接觸到的聚落，氛圍安全但資源有限。偶爾能看到其他迷茫的新手玩家在鎮上閒逛。
 **設施**：小旅館（休息恢復）、雜貨店（基礎道具）
 **NPC**：鎮民（情報提供）
-**連接地點**：Shiso Tree（相鄰）、Antokiba（相鄰）、Badlands（相鄰）
+**連接地點**：Shiso Tree（相鄰）、Antokiba（相鄰）、Badlands（相鄰）、Village of the Bandits（長途）
 **特殊規則**：無
 **可取得卡牌**：Healing Spring Water（G 級自由卡，鎮外泉水）、Melanin Lizard（G 級怪物卡）
 
@@ -49,7 +49,7 @@
 **描述**：Masadora 與起始區域之間的荒蕪地帶，紅色岩石散布在乾裂的大地上。獨眼巨人在此遊蕩，偶爾能聽到遠處的咆哮聲在峽谷間迴盪。新手的噩夢，也是磨練的好地方。
 **設施**：無
 **NPC**：無常駐 NPC
-**連接地點**：Shiso Tree（相鄰）、Rubicuta（相鄰）、Masadora（相鄰）
+**連接地點**：Shiso Tree（相鄰）、Rubicuta（相鄰）、Masadora（相鄰）、Village of the Bandits（相鄰）
 **特殊規則**：高遭遇率（60%）。主要出沒怪物：獨眼巨人、Hyper Puffball。
 **可取得卡牌**：獨眼巨人（E 級，需「瞄準眼睛」）、Hyper Puffball（D 級，需速度 ≥18）
 
