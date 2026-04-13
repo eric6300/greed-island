@@ -1,0 +1,16 @@
+# Game state (save files)
+game-state.json
+game-state.backup.json
+
+# Memory card directory
+.memcard/
+*.local.json
+
+# Speckit internal files
+.specify/feature.json
+.specify/extensions.yml
+.specify/extensions/
+.specify/init-options.json
+
+# GDD source document
+greed-island-GDD.md
