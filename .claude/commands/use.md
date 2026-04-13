@@ -47,4 +47,3 @@
 
 ## 限制
 - GM 專屬卡（如 Eliminate）玩家無法使用
-- 傳家寶卡牌效果按 efficiency 比例降低

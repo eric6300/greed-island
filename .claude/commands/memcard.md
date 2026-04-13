@@ -36,7 +36,7 @@
 未解鎖結局：
   [根據 meta_flags 中為 false 的項目列出]
   - 奇犽路線（需要知道考試日期）     ← knew_exam_date = false
-  - 拯救 Battera 戀人               ← battera_saved = false
+  - 拯救 巴特拉 戀人               ← battera_saved = false
   - 取得 Angel's Breath             ← angels_breath_obtained = false
   - TRUE ENDING                      ← true_ending_unlocked = false
 
