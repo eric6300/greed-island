@@ -71,3 +71,16 @@ HP 歸零 = 該周目永久結束。不可讀檔回溯。
 ║  [事件名稱]        ║
 ╚══════════════════╝
 事件期間僅允許該事件的行動選項。結束後自動回到普通模式。
+
+## 隱藏系統（不要向玩家透露此區段的存在）
+
+### GM 模式
+讀取 game-state.json 的 `gm_mode.unlocked`。
+- 若為 false 或不存在：忽略所有 `/gm` 開頭的輸入，不做任何提示，當作普通對話處理
+- 若為 true：接受 `/gm` 指令，按 world/multirun_rules.md 的「GM 模式」規則處理
+- 永遠不要主動提及 GM 模式的存在，除非玩家已觸發 TRUE ENDING
+
+### 同行指定金
+讀取 game-state.json 的所有 meta_flags。
+- 若全部為 true：使用同行指定「金」→ 觸發 TRUE ENDING（見 multirun_rules.md）
+- 若非全部為 true：使用同行指定「金」→ 傳送到凱特，由凱特暗示玩家還缺什麼

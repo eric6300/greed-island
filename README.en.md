@@ -51,11 +51,9 @@ The Water Divination test determines your Nen type. Ten, Zetsu, Ren, Hatsu, Gyo,
 
 No save loading. No do-overs. The moment your HP hits zero, that run is over. But death isn't the end — each clear (or death) unlocks new knowledge, opening entirely different paths in your next run.
 
-### The History Wall: You Can't Stop Fate, Only Change Its Shape
+### This Island Has a Will of Its Own
 
-Certain events are inevitable. Mass player deaths, card losses, Razor's trial — these "inevitable nodes" will happen in some form. You stopped Genthru's bomb? The Phantom Troupe fills the void. You stopped them too? Something far worse is brewing.
-
-History's debts must be repaid. With interest.
+You think you can change everything? Try.
 
 ### NPCs Remember You
 
