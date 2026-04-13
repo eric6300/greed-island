@@ -65,9 +65,9 @@ These memories persist across conversations and sessions. They're alive.
 
 ### Multi-Run: Every Playthrough Is a New Story
 
-Clear the game and bring out 3 cards — next run, you start with full power and your heirloom cards at 100% effect. Missed the Hunter Exam in run 1? In run 2, you'll know the date. Battera's lover died? In run 2, you can get Angel's Breath in time.
+Clear the game and bring out 3 cards — next run, you start with full power and your heirloom cards at 100% effect. The tragedies you witnessed, the chances you missed, the choices you couldn't make in time — next run, you'll know what to do.
 
-When all conditions align — the TRUE ENDING awaits.
+Every clear unlocks new possibilities. Some paths can only be seen by those who've known failure.
 
 ---
 
