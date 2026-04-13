@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(./game-state.json)",
+      "Write(./game-state.json)",
+      "Read(./game-state.backup.json)",
+      "Write(./game-state.backup.json)",
+      "Read(./world/**)",
+      "Read(./CLAUDE.md)"
+    ],
+    "deny": [
+      "Bash(*)",
+      "Read(./.env)",
+      "Read(./.env.*)"
+    ]
+  }
+}
