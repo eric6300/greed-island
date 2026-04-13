@@ -6,7 +6,7 @@
 ## 開始遊戲
 
 ```bash
-git clone https://github.com/你的帳號/greed-island
+git clone https://github.com/eric6300/greed-island
 cd greed-island
 claude
 ```
@@ -46,7 +46,9 @@ claude
 - [Claude Code CLI](https://claude.ai/code)（需有效訂閱）
 - Git
 
-## 授權聲明
+## License
+
+MIT License. See [LICENSE](LICENSE) for details.
 
 本遊戲為粉絲作品，非官方授權。
 所有 Hunter × Hunter 相關內容版權歸富樫義博及集英社所有。
